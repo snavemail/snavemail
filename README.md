@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 [![Liam Evans' GitHub stats](https://github-readme-stats.vercel.app/api?username=snavemail&count_private=true&show_icons=true&theme=moltack)](https://github.com/sanvemail/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snavemail)](https://github.com/snavemail/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snavemail&layout=compact)](https://github.com/snavemail/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=snavemail&theme=moltack)](https://github.com/snavemail/github-profile-trophy)
