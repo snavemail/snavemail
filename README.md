@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: The world's largest snowflake on record measured 15 inches wide and 8 inches thick.
 -->
 
-[![Liam Evans' GitHub stats](https://github-readme-stats.vercel.app/api?username=snavemail)](https://github.com/sanvemail/github-readme-stats)
+[![Liam Evans' GitHub stats](https://github-readme-stats.vercel.app/api?username=snavemail&count_private=true)](https://github.com/sanvemail/github-readme-stats)
