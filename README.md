@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm a passionate student at Northeastern on track to obtain a bachelor's in Computer Science and Mathematics by June 2024. I am always trying to learn new languages and enhance my problem solving skills and knowledge. My favorite part about coding is creating applications that I can share to the world such as websites, apps,and games. I hope to get a job where I can use my skills to create something everyone will love.
+I'm a passionate student at Northeastern on track to obtain a bachelor's in Computer Science and Mathematics by June 2024. I am always trying to learn new languages and enhance my problem solving skills and knowledge. My favorite part about coding is creating applications that I can share to the world such as websites, apps,and games. I hope to one day be in a position I can use my skills to create something everyone will love.
 <!--
 **snavemail/snavemail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
