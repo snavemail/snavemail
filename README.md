@@ -10,7 +10,6 @@ I'm a passionate student at Northeastern on track to obtain a bachelor's in Comp
 - 🌱 I’m currently learning Java and trying to get better at Web Development
 - 👯 I’m looking to collaborate on web development
 - 💬 Ask me about anything basketball related
-- 📫 How to reach me: 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The world's largest snowflake on record measured 15 inches wide and 8 inches thick.
 
