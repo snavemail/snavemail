@@ -1,5 +1,3 @@
-[![MasterHead](your image link)](your GitHub link)
-
 <h1 align="center">Hi 👋, I'm Liam Evans</h1>
 <h3 align="center">A passionate computer science and mathematics major at Northeastern University</h3>
 
